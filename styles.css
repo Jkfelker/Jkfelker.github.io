@@ -10,6 +10,14 @@ h2 {
 color: navy;
 text-align: center;
 }
+img[src="Images/affinity diagram 2.jpeg"] {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  border: 2px solid rgb(126, 14, 201);
+  display: block;
+  margin: auto;
+}
 
   img[src="Images/IMG_9549.jpeg"] {
   width: 300px;
