@@ -10,11 +10,11 @@ h2 {
 color: navy;
 text-align: center;
 }
-img[src="Images/Images/Build%20an%20app%20that%20displays%20real-time%20traffic%20map.jpg"] {
+img[src="Images/Build%20an%20app%20that%20displays%20real-time%20traffic%20map.jpg"] {
   width: 300px;
   height: 300px;
   margin: 10px;
-  border: 2px solid rgb(126, 14, 201);
+  border: 2px solid rgb(9, 22, 139);
   display: block;
   margin: auto;
 }
@@ -23,7 +23,7 @@ img[src="Images/Images/Build%20an%20app%20that%20displays%20real-time%20traffic%
   width: 300px;
   height: 300px;
   margin: 10px;
-  border: 2px solid rgb(126, 14, 201);
+  border: 2px solid rgb(33, 14, 201);
   display: block;
   margin: auto;
 }
